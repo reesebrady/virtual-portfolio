@@ -8,6 +8,7 @@ const Paintings = () => {
       return (
           <>
             <h1 className="container pt-5">{pageName}</h1>
+            <p className="container">Click "View" to see each painting up close and click the arrows on the side of each image to view more!</p>
             <div className="container">
               <div className="row">
               {paintings.map((artwork) => (

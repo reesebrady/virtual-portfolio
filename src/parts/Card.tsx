@@ -24,7 +24,7 @@ function Card({ title, size, imageURL, path, type, date }: Props) {
             {size}, {formattedDate}
           </p>
           <Link to={`/${type}/${path}`} className="card-link">
-          <div className="btn btn-light">
+          <div className="btn btn-primary">
             View
           </div>
           </Link>
