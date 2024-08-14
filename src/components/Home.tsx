@@ -1,15 +1,15 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import "./style.css";
+
 
 
 const Home = () => {
-    // const artwork1 = artworks.find((artwork) => artwork.path === "city");
-    // const artwork2 = artworks.find((artwork) => artwork.path === "bigsur");
-    // const artwork3 = artworks.find((artwork) => artwork.path === "cat");
+    const header = '/images/header.jpeg';
     return (
       <>
         <div
           className="banner d-flex justify-content-center align-items-center"
-        //   style={{ backgroundImage: `url(${header})` }}
+           style={{ backgroundImage: `url(${header})` }}
         >
           <div className="text-center text-white">
             <h1 className="display-4">Welcome to My Virtual Portfolio</h1>

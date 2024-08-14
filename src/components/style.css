@@ -1,0 +1,11 @@
+.banner {
+    background-image: url('path/to/your/image.jpg');
+    background-size: cover; /* Ensure the background image covers the entire container */
+    background-position: center;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+  }

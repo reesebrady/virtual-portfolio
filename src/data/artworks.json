@@ -1,0 +1,120 @@
+[
+    {
+      "key": 1,
+      "type": "paintings",
+      "title": "Big Sur",
+      "size": "18x22",
+      "date": "2023-12-11T12:00:00Z",
+      "imageURL": "/images/bigsur/bigsur.jpeg",
+      "imageCarousel": [
+        "/images/bigsur/bigsur.jpeg",
+        "/images/bigsur/bigsur1.jpeg",
+        "/images/bigsur/bigsur2.jpeg",
+        "/images/bigsur/bigsur3.jpeg"
+      ],
+      "path": "bigsur"
+    },
+    {
+        "key": 2,
+        "type": "paintings",
+        "title": "Breckenridge",
+        "size": "18x22",
+        "date": "2024-02-11T12:00:00Z",
+        "imageURL": "/images/breckenridge/breckenridge.jpeg",
+        "imageCarousel": [
+          "/images/breckenridge/breckenridge.jpeg",
+          "/images/breckenridge/breckenridge1.jpeg",
+          "/images/breckenridge/breckenridge2.jpeg"
+        ],
+        "path": "breckenridge"
+      },
+      {
+        "key": 3,
+        "type": "paintings",
+        "title": "House",
+        "size": "18x22",
+        "date": "2021-08-11T12:00:00Z",
+        "imageURL": "/images/house/house.jpeg",
+        "imageCarousel": [
+          "/images/house/house.jpeg",
+          "/images/house/house1.jpeg",
+          "/images/house/house2.jpeg",
+          "/images/house/house3.jpeg",
+          "/images/house/house4.jpeg",
+          "/images/house/house5.jpeg"
+        ],
+        "path": "house"
+      },
+      {
+        "key": 8,
+        "type": "antelopeCanyon",
+        "title": "Antelope Canyon Tryptich",
+        "size": "18x22",
+        "date": "2021-11-11T12:00:00Z",
+        "imageURL": "/images/canyon/canyon.jpeg",
+        "imageCarousel": [
+          "/images/canyon/canyon.jpeg",
+          "/images/canyon/canyon1.jpeg",
+          "/images/canyon/canyon2.jpeg"
+        ],
+        "path": "canyon"
+      },
+      {
+        "key": 4,
+        "type": "drawings",
+        "title": "Cat",
+        "size": "18x22",
+        "date": "2021-07-11T12:00:00Z",
+        "imageURL": "/images/cat/cat.jpeg",
+        "imageCarousel": [
+          "/images/cat/cat.jpeg",
+          "/images/cat/cat1.jpeg",
+          "/images/cat/cat2.jpeg",
+          "/images/cat/cat3.jpeg"
+        ],
+        "path": "cat"
+      },
+      {
+        "key": 5,
+        "type": "drawings",
+        "title": "Dog",
+        "size": "18x22",
+        "date": "2019-06-11T12:00:00Z",
+        "imageURL": "/images/dog1/dog.jpeg",
+        "imageCarousel": [
+          "/images/dog1/dog.jpeg",
+          "/images/dog1/dog1.jpeg",
+          "/images/dog1/dog2.jpeg"
+        ],
+        "path": "dog"
+      },
+      {
+        "key": 6,
+        "type": "drawings",
+        "title": "Dog 2",
+        "size": "18x22",
+        "date": "2019-03-11T12:00:00Z",
+        "imageURL": "/images/dog2/dog.jpeg",
+        "imageCarousel": [
+          "/images/dog2/dog.jpeg",
+          "/images/dog2/dog1.jpeg"
+        ],
+        "path": "dog2"
+      },
+      {
+        "key": 7,
+        "type": "drawings",
+        "title": "City Illustration",
+        "size": "18x22",
+        "date": "2020-01-11T12:00:00Z",
+        "imageURL": "/images/cityIllustration/city.jpeg",
+        "imageCarousel": [
+          "/images/cityIllustration/city.jpeg",
+          "/images/cityIllustration/city1.jpeg",
+          "/images/cityIllustration/city2.jpeg",
+          "/images/cityIllustration/city3.jpeg",
+          "/images/cityIllustration/city4.jpeg"
+        ],
+        "path": "city"
+      }
+  ]
