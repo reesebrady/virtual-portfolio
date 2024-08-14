@@ -14,7 +14,7 @@ const Home = () => {
           <div className="text-center text-white">
             <h1 className="display-4">Welcome to My Virtual Portfolio</h1>
             <p className="lead">
-              My name is Reese Brady and this is website build with React to
+              My name is Reese Brady and this is my website built with React to
               display all my favorite paintings and drawings!
             </p>
           </div>
