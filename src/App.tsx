@@ -4,6 +4,7 @@ import Home from "./components/Home";
 import NoPage from "./components/NoPage";
 import Paintings from "./components/Paintings";
 import Drawings from "./components/Drawings";
+import ArtworkPage from "./components/ArtworkPage";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
           <Route path="/home" element={<Home />} />
           <Route path="/paintings" element={<Paintings />} />
           <Route path="/drawings" element={<Drawings />} />
+          <Route path=":page/:id" element={<ArtworkPage />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
