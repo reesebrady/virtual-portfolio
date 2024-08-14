@@ -29,6 +29,8 @@ const ArtworkPage = () => {
         <button type="button" className="btn-close" aria-label="Close"></button>
         </Link>
         <h1>{artwork.title}</h1>
+        <p>{artwork.description}</p>
+        <p>Click the arrows on the right and left to view more pictures!</p>
         <div className="col-lg-8">
         <div id="carouselExample" className="carousel slide">
           <div className="carousel-inner">
@@ -65,7 +67,6 @@ const ArtworkPage = () => {
             <span className="visually-hidden">Next</span>
           </button>
         </div>
-
         </div>
       </div>
     </>

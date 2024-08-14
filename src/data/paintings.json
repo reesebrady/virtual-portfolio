@@ -1,62 +1,69 @@
 [
-    {
-      "key": 1,
+  {
+    "key": 1,
+    "type": "paintings",
+    "title": "Big Sur",
+    "size": "24x36",
+    "date": "2023-12-11T12:00:00Z",
+    "imageURL": "/images/bigsur/bigsur.jpeg",
+    "imageCarousel": [
+      "/images/bigsur/bigsur.jpeg",
+      "/images/bigsur/bigsur1.jpeg",
+      "/images/bigsur/bigsur2.jpeg",
+      "/images/bigsur/bigsur3.jpeg"
+    ],
+    "path": "bigsur",
+    "description": "This is a painting I completed over winter break of my sophomore year of college when I was bored. It's probably my favorite artwork I've completed to this day. It reminds me of my family's trip to California, when my parents and I drove the coast, including Big Sur. It was beautiful."
+  },
+  {
+      "key": 2,
       "type": "paintings",
-      "title": "Big Sur",
-      "size": "18x22",
-      "date": "2023-12-11T12:00:00Z",
-      "imageURL": "/images/bigsur/bigsur.jpeg",
+      "title": "Breckenridge",
+      "size": "18x24",
+      "date": "2024-02-11T12:00:00Z",
+      "imageURL": "/images/breckenridge/breckenridge.jpeg",
       "imageCarousel": [
-        "/images/bigsur/bigsur.jpeg",
-        "/images/bigsur/bigsur1.jpeg",
-        "/images/bigsur/bigsur2.jpeg",
-        "/images/bigsur/bigsur3.jpeg"
+        "/images/breckenridge/breckenridge.jpeg",
+        "/images/breckenridge/breckenridge1.jpeg",
+        "/images/breckenridge/breckenridge2.jpeg"
       ],
-      "path": "bigsur"
+      "path": "breckenridge",
+      "description": "This is a painting I completed during my second semester sophomore year of college. It reminds me of my family's ski trip to Breckenridge. I love to ski, so good memories."
+
     },
     {
-        "key": 2,
-        "type": "paintings",
-        "title": "Breckenridge",
-        "size": "18x22",
-        "date": "2024-02-11T12:00:00Z",
-        "imageURL": "/images/breckenridge/breckenridge.jpeg",
-        "imageCarousel": [
-          "/images/breckenridge/breckenridge.jpeg",
-          "/images/breckenridge/breckenridge1.jpeg",
-          "/images/breckenridge/breckenridge2.jpeg"
-        ],
-        "path": "breckenridge"
-      },
-      {
-        "key": 3,
-        "type": "paintings",
-        "title": "House",
-        "size": "18x22",
-        "date": "2021-08-11T12:00:00Z",
-        "imageURL": "/images/house/house.jpeg",
-        "imageCarousel": [
-          "/images/house/house.jpeg",
-          "/images/house/house1.jpeg",
-          "/images/house/house2.jpeg",
-          "/images/house/house3.jpeg",
-          "/images/house/house4.jpeg",
-          "/images/house/house5.jpeg"
-        ],
-        "path": "house"
-      },
-      {
-        "key": 8,
-        "type": "antelopeCanyon",
-        "title": "Antelope Canyon Tryptich",
-        "size": "18x22",
-        "date": "2021-11-11T12:00:00Z",
-        "imageURL": "/images/canyon/canyon.jpeg",
-        "imageCarousel": [
-          "/images/canyon/canyon.jpeg",
-          "/images/canyon/canyon1.jpeg",
-          "/images/canyon/canyon2.jpeg"
-        ],
-        "path": "canyon"
-      }
+      "key": 3,
+      "type": "paintings",
+      "title": "House",
+      "size": "18x24",
+      "date": "2021-08-11T12:00:00Z",
+      "imageURL": "/images/house/house.jpeg",
+      "imageCarousel": [
+        "/images/house/house.jpeg",
+        "/images/house/house1.jpeg",
+        "/images/house/house2.jpeg",
+        "/images/house/house3.jpeg",
+        "/images/house/house4.jpeg",
+        "/images/house/house5.jpeg"
+      ],
+      "path": "house",
+      "description": "This is a commission I completed. It's one of my favorite commissions I've completed so far and the first painting commission."
+
+    },
+    {
+      "key": 8,
+      "type": "paintings",
+      "title": "Antelope Canyon Tryptich",
+      "size": "3: 12x12",
+      "date": "2021-11-11T12:00:00Z",
+      "imageURL": "/images/canyon/canyon.jpeg",
+      "imageCarousel": [
+        "/images/canyon/canyon.jpeg",
+        "/images/canyon/canyon1.jpeg",
+        "/images/canyon/canyon2.jpeg"
+      ],
+      "path": "canyon",
+      "description": "This is a tryptic I completed for my IB Art final my senior year of high school. I love how I rendered the light in these. I took these photos on a family trip to Arizona where we walked through Antelope Canyon. It was beautiful."
+
+    }
   ]

@@ -3,7 +3,7 @@
       "key": 1,
       "type": "paintings",
       "title": "Big Sur",
-      "size": "18x22",
+      "size": "24x36",
       "date": "2023-12-11T12:00:00Z",
       "imageURL": "/images/bigsur/bigsur.jpeg",
       "imageCarousel": [
@@ -12,13 +12,14 @@
         "/images/bigsur/bigsur2.jpeg",
         "/images/bigsur/bigsur3.jpeg"
       ],
-      "path": "bigsur"
+      "path": "bigsur",
+      "description": "This is a painting I completed over winter break of my sophomore year of college when I was bored. It's probably my favorite artwork I've completed to this day. It reminds me of my family's trip to California, when my parents and I drove the coast, including Big Sur. It was beautiful."
     },
     {
         "key": 2,
         "type": "paintings",
         "title": "Breckenridge",
-        "size": "18x22",
+        "size": "18x24",
         "date": "2024-02-11T12:00:00Z",
         "imageURL": "/images/breckenridge/breckenridge.jpeg",
         "imageCarousel": [
@@ -26,13 +27,15 @@
           "/images/breckenridge/breckenridge1.jpeg",
           "/images/breckenridge/breckenridge2.jpeg"
         ],
-        "path": "breckenridge"
+        "path": "breckenridge",
+        "description": "This is a painting I completed during my second semester sophomore year of college. It reminds me of my family's ski trip to Breckenridge. I love to ski, so good memories."
+
       },
       {
         "key": 3,
         "type": "paintings",
         "title": "House",
-        "size": "18x22",
+        "size": "18x24",
         "date": "2021-08-11T12:00:00Z",
         "imageURL": "/images/house/house.jpeg",
         "imageCarousel": [
@@ -43,13 +46,15 @@
           "/images/house/house4.jpeg",
           "/images/house/house5.jpeg"
         ],
-        "path": "house"
+        "path": "house",
+        "description": "This is a commission I completed. It's one of my favorite commissions I've completed so far and the first painting commission."
+
       },
       {
         "key": 8,
-        "type": "antelopeCanyon",
+        "type": "paintings",
         "title": "Antelope Canyon Tryptich",
-        "size": "18x22",
+        "size": "3: 12x12",
         "date": "2021-11-11T12:00:00Z",
         "imageURL": "/images/canyon/canyon.jpeg",
         "imageCarousel": [
@@ -57,13 +62,15 @@
           "/images/canyon/canyon1.jpeg",
           "/images/canyon/canyon2.jpeg"
         ],
-        "path": "canyon"
+        "path": "canyon",
+        "description": "This is a tryptic I completed for my IB Art final my senior year of high school. I love how I rendered the light in these. I took these photos on a family trip to Arizona where we walked through Antelope Canyon. It was beautiful."
+
       },
       {
         "key": 4,
         "type": "drawings",
         "title": "Cat",
-        "size": "18x22",
+        "size": "15x21",
         "date": "2021-07-11T12:00:00Z",
         "imageURL": "/images/cat/cat.jpeg",
         "imageCarousel": [
@@ -72,13 +79,15 @@
           "/images/cat/cat2.jpeg",
           "/images/cat/cat3.jpeg"
         ],
-        "path": "cat"
+        "path": "cat",
+        "description": "This is a commission I completed in high school. I love the way it turned out. It's huge and took me forever, but it's one of my favorite drawings I've completed."
+
       },
       {
         "key": 5,
         "type": "drawings",
         "title": "Dog",
-        "size": "18x22",
+        "size": "9x12",
         "date": "2019-06-11T12:00:00Z",
         "imageURL": "/images/dog1/dog.jpeg",
         "imageCarousel": [
@@ -86,26 +95,30 @@
           "/images/dog1/dog1.jpeg",
           "/images/dog1/dog2.jpeg"
         ],
-        "path": "dog"
+        "path": "dog",
+        "description": "This is a commission I completed in high school. I like how I did the blurred grass in the background."
+
       },
       {
         "key": 6,
         "type": "drawings",
         "title": "Dog 2",
-        "size": "18x22",
+        "size": "9x12",
         "date": "2019-03-11T12:00:00Z",
         "imageURL": "/images/dog2/dog.jpeg",
         "imageCarousel": [
           "/images/dog2/dog.jpeg",
           "/images/dog2/dog1.jpeg"
         ],
-        "path": "dog2"
+        "path": "dog2",
+        "description": "This is a commission I completed in high school. This dog is adorable."
+
       },
       {
         "key": 7,
         "type": "drawings",
         "title": "City Illustration",
-        "size": "18x22",
+        "size": "18x24",
         "date": "2020-01-11T12:00:00Z",
         "imageURL": "/images/cityIllustration/city.jpeg",
         "imageCarousel": [
@@ -115,6 +128,8 @@
           "/images/cityIllustration/city3.jpeg",
           "/images/cityIllustration/city4.jpeg"
         ],
-        "path": "city"
+        "path": "city",
+        "description": "This is a project for my art class I completed my sophomore year of high school. I did this all in thin micro pens. It took me just under 100 hours, but it's beautiful. No picture does it justice because you can't see how thin the line work is. I love this drawing."
+
       }
   ]

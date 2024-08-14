@@ -28,6 +28,10 @@ const Home = () => {
             enrolled in a 4-year intensive program that helped shape my skills and
             learn more about art.
           </p>
+          <p>Click "paintings" and "drawings" above to see my work! Take time to 
+            click the arrows on the sides of each image to see all the different 
+            pictures of each artwork. Enjoy!
+          </p>
           <p>
             I have sold multiple commissions, mostly drawings. You can find which
             artworks are commissions based on their descriptions on the artwork

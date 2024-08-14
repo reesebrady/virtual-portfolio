@@ -1,11 +1,11 @@
 import { Link } from 'react-router-dom';
 
 interface Props {
-    title: string;
-    size: string;
-    imageURL: string;
-    path: string;
-    type: string;
+    title: string
+    size: string
+    imageURL: string
+    path: string
+    type: string
     date: string
 }
 function Card({ title, size, imageURL, path, type, date }: Props) {
