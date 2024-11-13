@@ -1,7 +1,6 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./style.css";
-
-
+import AppThemeButton from '../AppThemeButton';
 
 const Home = () => {
     const header = '/images/header.jpeg';
@@ -20,6 +19,7 @@ const Home = () => {
           </div>
         </div>
         <div className="container pt-5">
+          <AppThemeButton />
           <h1>About me</h1>
           <p>
             I am a software engineer who has a lot of hobbies, with one of the
@@ -43,47 +43,6 @@ const Home = () => {
             taken by me or by the person who commissioned the artwork.
           </p>
         </div>
-        {/* <div className="container pt-5">
-          <h1>Favorites</h1>
-          <p>Below are my favorite 3 works!</p>
-          <div className="container">
-            <div className="row">
-              <div className="col-lg-4 mb-5">
-                {artwork1 && <Card
-                  key={artwork1.key}
-                  path={artwork1.path}
-                  title={artwork1.title}
-                  size={artwork1.size}
-                  imageURL={artwork1.imageURL}
-                  type="home"
-                  date={artwork1.date}
-                />}
-              </div>
-              <div className="col-lg-4 mb-5">
-                {artwork2 && <Card
-                  key={artwork2.key}
-                  path={artwork2.path}
-                  title={artwork2.title}
-                  size={artwork2.size}
-                  imageURL={artwork2.imageURL}
-                  type="home"
-                  date={artwork2.date}
-                />}
-              </div>
-              <div className="col-lg-4 mb-5">
-                {artwork3 && <Card
-                  key={artwork3.key}
-                  path={artwork3.path}
-                  title={artwork3.title}
-                  size={artwork3.size}
-                  imageURL={artwork3.imageURL}
-                  type="home"
-                  date={artwork3.date}
-                />}
-              </div>
-            </div>
-          </div>
-        </div> */}
       </>
     );
   };
