@@ -10,9 +10,7 @@ export const AppTheme: React.FC<ThemeProviderProps> = ({ children }) => {
   const [theme, setTheme] = useState("light");
 
   const toggleTheme = () => {
-    console.log("called")
     theme == "light" ? setTheme("dark") : setTheme("light");
-    console.log(theme)
   };
 
   useEffect(() => {
